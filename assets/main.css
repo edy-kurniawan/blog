@@ -4782,7 +4782,7 @@ footer {
     .sec-one-copy {
         background-size: 100% auto;
         padding: 5rem 5rem;
-        height: 93vh;
+        height: 193vh;
     }
     .hide-on-mobile {
         display: block;
@@ -5153,5 +5153,8 @@ footer {
     }
     .radius25 {
         border-radius: 25px;
+    }
+    .padding5 {
+        padding: 5px,5px,5px,5px;
     }
 }
